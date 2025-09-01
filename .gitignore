@@ -2,6 +2,6 @@
 .DS_Store
 Thumbs.db
 
-# Игнорирование логов и зависимостей
+# Игнорирование логов и зависимостей jgftfut
 npm-debug.log*
 node_modules/
