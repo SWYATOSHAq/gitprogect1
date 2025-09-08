@@ -6,4 +6,4 @@
 ## Ссылки
 - [Публичная страница на GitHub Pages][def]
 
-[def]: https://SWYATOSHAq.github.io/GITPROGECT1/
+[def]: https://swyatoshaq.github.io/gitprogect1/src/
